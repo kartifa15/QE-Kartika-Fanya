@@ -1,9 +1,4 @@
 PRAKTIKUM : 
-
-
-
-
-RESUME :
 1. Pada fase apa saja QE berperan pada proses SDLC ? Sebutkan dan jelaskan peran seperti apa yang QE dapat lakukan pada setiap fase tersebut!
 - Requirement Gathering > mengumpulkan kebutuhan bisnis, membuat diagram proses, melakukan analisis rinci
 - Design > Merancang infrastruktur TI, Merancang model sistem
@@ -18,3 +13,19 @@ RESUME :
 - Don't be a checker, be a tester > Menjadi seorang tester yang berkualitas dengan menjadikan diri kita sebagai perwakilan dari user
 - Don't try to break the system, instead help build the best possible system > Membantu membangun sistem sebaik mungkin dengan menjadi tester yang baik dan berkualitas
 - The whole team is responsible for quality, not just the tester > Seluruh tim bertanggung jawab atas keseluruhan project, tidak hanya bertanggung jawab mengenai apa yang dikerjakan 
+
+RESUME : 
+1. SDLC adalah proses yang digunakan oleh industri perangkat lunak untuk merancang, mengembangkan, dan menguji perangkat lunak berkualitas tinggi.
+2. Fase SDLC
+-Requrements Gathering,
+-Design,
+-Development (code),
+-Testing,
+-Deployment,
+-Maintenance,
+3.Agile Testing Manifesto
+-Ujian selalu tertinggal,
+-Otomatisasi bahkan lebih jauh di belakang itu,
+-Penguji tidak dapat bekerja sampai pengembangan selesai,
+-Ada tekanan di akhir sprint,
+-Ada kesalahan di sekitar bug,
