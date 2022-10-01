@@ -5,30 +5,20 @@ File berekstensi class inilah yang disebut sebagai bytecode dan bisa dijalankan 
 Dilihat dari penggunaannya, sebagai bahasa pemrograman umum kamu bisa memanfaatkan Java untuk membuat berbagai bentuk aplikasi.
 
 2. Tools : JDK dan IDE 
-
 JDK (Java Development Kit)
--Developing 
-
--Debugging
-
--Monitoring 
+- Developing 
+- Debugging
+- Monitoring 
 
 IDE(Integrated Development Environment)
--BlueJ
-
--NetBeans
-
--Eclipse
-
--InteliJ IDEA
+- BlueJ
+- NetBeans
+- Eclipse
+- InteliJ IDEA
 
 3. Basic Programming
--Type Data (Integer, Float, Double, Boolean, Char, String,Array)
-
--Branching (Percabangan) (if-then, if-then-else, switch)
-
--Looping (for, while, do-while)
-
--Input Output
-
--Operator
+- Type Data (Integer, Float, Double, Boolean, Char, String,Array)
+- Branching (Percabangan) (if-then, if-then-else, switch)
+- Looping (for, while, do-while)
+- Input Output
+- Operator
