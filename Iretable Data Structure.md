@@ -1,0 +1,6 @@
+RESUME : 
+1.  "Iretable" diperkenalkan untuk dapat digunakan dalam loop "foreach". Kelas yang mengimplementasikan antarmuka iretable dapat diulang.
+
+2.  Iterator adalah kelas yang mengelola iterasi di atas iterable. itu mempertahankan keadaan di mana kita berada dalam iterasi saat ini, dan tahu apa elemen berikutnya dan bagaimana mendapatkannya.
+
+3. Collections, setiap kelompok objek individu yang direpresentasikan sebagai satu unit dikenal sebagai koleksi objek.
