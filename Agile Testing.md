@@ -1,3 +1,9 @@
+PRAKTIKUM : 
+
+
+
+
+RESUME :
 1. Pada fase apa saja QE berperan pada proses SDLC ? Sebutkan dan jelaskan peran seperti apa yang QE dapat lakukan pada setiap fase tersebut!
 - Requirement Gathering > mengumpulkan kebutuhan bisnis, membuat diagram proses, melakukan analisis rinci
 - Design > Merancang infrastruktur TI, Merancang model sistem
