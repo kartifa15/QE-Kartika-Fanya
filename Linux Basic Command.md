@@ -1,3 +1,4 @@
+RESUME : 
 1. Linux Command Structure
 - Command [options] [parameters]
 ls -a /usr
