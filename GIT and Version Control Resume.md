@@ -1,0 +1,10 @@
+1. Versioning merupakan pengatur versi dari source code program.
+GIT merupakan salah satu version control system populer yang digunakan para developer untuk mengembangkan software secara bersama-sama.
+2. Tools yang digunakan :
+-Version Control System (VCS)
+-Source Code Manager (SCM)
+-Revision Control System (RCS)
+3. Version Control System :
+-Single User 
+-Centralized 
+-Distributed 
