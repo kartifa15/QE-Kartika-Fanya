@@ -1,0 +1,18 @@
+RESUME : 
+
+1. Serenity is open source BDD Framework that helps making write well-structured and maintanable automated acceptance test. 
+
+- Serenity architecture cosist of Requirements, Test, Steps, Pages and Report. 
+
+2. Report on Test Result 
+Serenity provides detailed reports on the result and axecution including :
+- A narrative for each test. 
+- Sreenshoots for each step in the test. 
+- Test results including execution times and error messages if a test failed. 
+
+3. Step Writing The Test 
+- Serenity Cucumber 
+- Create File Stories
+- Create File Test Class
+- Create File Test Steps
+- Create File Page Object 
