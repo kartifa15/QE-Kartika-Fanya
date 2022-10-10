@@ -1,0 +1,15 @@
+
+RESUME : 
+
+1. JMeter adalah perangkat lunak sumber terbuka, aplikasi desktop java 100% murni, yang dirancang untuk membuat uji perilaku fungsional dan mengukur kinerja situs web. 
+
+2. Pros of Jmeter 
+- Open Source
+- Easy to use with GUI/Non GUI 
+
+3. Install Tools
+- Install JDK (Java Development Kit)
+- Search JMeter
+- Download File 
+- Open File 
+
