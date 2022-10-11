@@ -3,7 +3,7 @@ PRAKTIKUM :
 1. Pada unit Testing com.hascode.tutorial.entity memiliki line coverage 6/9 atau 67& dan Mutation Coverage sebesar 2/3 atau 67%
 sedangkan pada unit testing com.hascode.tutorial.service memiliki line coverage sebesar 6/6 atau 100% dan Mutation Coverage sebesar 3/4 atau 75%
 
-2. Dalam public class CalculatorServiceImpl terdapat 2 method , method yang pertama yaitu add yang menerima 2 parameter a dan b kemudian didalam fungsi tersebut nilai a dan b dijumlahkan dan ditampung kedalam variabel c. Terdapat perintah return c yang bertugas untuk mengembalikan nilai c. 
+2. Dalam public class CalculatorServiceImpl terdapat 2 method , method yang pertama yaitu add yang menerima 2 parameter a dan b kemudian di dalam fungsi tersebut nilai a dan b dijumlahkan dan ditampung kedalam variabel c. Terdapat perintah return c yang bertugas untuk mengembalikan nilai c. 
 method kedua yaitu method substract, pada fungsi tersebut menerima 2 arameter, lalu melakukan pengurangan terhadap 2 parameter tersebut dan disimpan pada variabel c. 
 
 RESUME : 
