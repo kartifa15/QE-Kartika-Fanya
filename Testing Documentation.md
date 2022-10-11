@@ -1,3 +1,6 @@
+PRAKTIKUM :
+https://docs.google.com/spreadsheets/d/1SfA_QdYLAbaYDUfgAP1UgXIg7a-AX_cylHD16sAKLrg/edit?usp=sharing
+
 RESUME : 
 
 Test Scenario & Test Case 
