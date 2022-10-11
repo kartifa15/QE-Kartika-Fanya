@@ -1,0 +1,15 @@
+RESUME :
+
+1. Post Processor adalah elemen rencana pertama yang digunakan untuk melakukan tindakan tertentu setelah pemrosesan permintaan sampler. Pemroses pos ini biasanya digunakan untuk mengekstrak nilai tertentu dari respons permintaan sampler, mis. Kami dapat mengekstrak nilai variabel sesi dari permintaan HTTP dan meneruskan nilai variabel sesi ke permintaan berikutnya.
+
+2. JSON Path :
+- Digunakan untuk ekstrak isi dari json response 
+- Beberapa ekspresi yang umum digunakan :
+     - $ = root element 
+     - . = child operator (object)
+     - [] = child operator (array)
+     - .. = recrudive descent (langsung ke object)
+     - * = willcard (all things)
+     - [start:end] = array slice operator borrowed
+
+3. JMeter Post-Processors are at the heart of Performance Testing 
