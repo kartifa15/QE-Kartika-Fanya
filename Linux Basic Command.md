@@ -1,3 +1,20 @@
+PRAKTIKUM :
+1. Make Directory , membuat sebuah directory baru 
+<img width="736" alt="image" src="https://user-images.githubusercontent.com/82600583/202504781-e706d4ea-bee6-4149-a605-325e2ba5afc3.png">
+2. ls , melihat directory 
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/82600583/202505154-5e909d7b-3dc4-41be-9423-e30d5926a46e.png">
+3. Membuat suatu file 
+- echo : perintah untuk menampilkan 
+- '#!/bin/sh' : isi yang akan ditampilkan 
+- ( > ) : perintah untuk menulis file 
+- my-script.sh : nama file 
+- 'echo Hello World' : isi yang akan di tampilkan 
+- ( >> ) : perintah untuk menambahkan ke file 
+<img width="612" alt="image" src="https://user-images.githubusercontent.com/82600583/202505935-1a14074f-4c31-49c6-b469-d7d5306b394c.png">
+
+
+
+
 RESUME : 
 
 1. Linux Command Structure
