@@ -1,3 +1,9 @@
+PRAKTIKUM :
+
+- Memiliki performa yang kurang bagus/tidak sesuai standart test
+- Response time yang tidak sesuai standart test 
+- Memiliki kemampuan dan kestabilan stress testing yang kurang
+
 RESUME : 
 
 1.  Performance test merupakan Teknik non functional testing untuk menentukan parameter sistem dalam hal responsif dan stablitas dibawah berbagai beban (load) kerja. 
