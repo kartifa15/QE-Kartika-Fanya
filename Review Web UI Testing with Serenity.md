@@ -1,3 +1,9 @@
+PRAKTIKUM :
+
+Login.feature
+
+<img width="622" alt="image" src="https://user-images.githubusercontent.com/82600583/202860495-a60f2e1f-c061-4ccd-b478-b3eb5daeec17.png">
+
 RESUME : 
 
 1. Serenity is open source BDD Framework that helps making write well-structured and maintanable automated acceptance test. 
