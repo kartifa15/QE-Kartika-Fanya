@@ -1,4 +1,3 @@
-
 RESUME : 
 
 1. JMeter adalah perangkat lunak sumber terbuka, aplikasi desktop java 100% murni, yang dirancang untuk membuat uji perilaku fungsional dan mengukur kinerja situs web. 
