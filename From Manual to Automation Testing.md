@@ -1,3 +1,17 @@
+PRAKTIKUM :
+
+1. Deskripsi hasil pengujian 
+- Test CRUD Methods in sample RESTAPI Testing framework 
+- Method Delete memiliki durasi waktu testing 880ms
+- Method GET memiliki durasi waktu testing 212ms
+- Method POST memiliki durasi waktu testing 786ms
+- Method Update memiliki durasi waktu testing 764ms
+
+2. Deskripsi hasil pengujian otomatis 
+Petstore menghasilkan capabilities 100% passed dengan test count 1
+Search menghasilkan capabilities 75% passed dengan test count 4
+Shopping Cart menghasilkan capabilities 50% passed dengan test count 2 
+
 RESUME : 
 
 1. Manual Testing , Kasus uji pengujian manual dijalankan oleh penguji dan perangkat lunak manusia. Tujuan : Eksplorasi dan Observasi Manusia. 
