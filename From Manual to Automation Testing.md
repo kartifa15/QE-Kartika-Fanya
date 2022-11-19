@@ -8,9 +8,9 @@ PRAKTIKUM :
 - Method Update memiliki durasi waktu testing 764ms
 
 2. Deskripsi hasil pengujian otomatis 
-Petstore menghasilkan capabilities 100% passed dengan test count 1
-Search menghasilkan capabilities 75% passed dengan test count 4
-Shopping Cart menghasilkan capabilities 50% passed dengan test count 2 
+- Petstore menghasilkan capabilities 100% passed dengan test count 1
+- Search menghasilkan capabilities 75% passed dengan test count 4
+- Shopping Cart menghasilkan capabilities 50% passed dengan test count 2 
 
 RESUME : 
 
