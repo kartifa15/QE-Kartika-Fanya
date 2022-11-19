@@ -6,6 +6,7 @@ PRAKTIKUM :
 
 - form.html
 <img width="611" alt="image" src="https://user-images.githubusercontent.com/82600583/202857884-e5c2d95f-acd8-4292-9dba-d0b87912aae5.png">
+<img width="491" alt="image" src="https://user-images.githubusercontent.com/82600583/202858055-91f85750-589c-45b9-adcf-803be33afe83.png">
 <img width="622" alt="image" src="https://user-images.githubusercontent.com/82600583/202857902-5af2fc54-cfb6-4a77-8f7b-ec2298026870.png">
 
 - welcome.html
