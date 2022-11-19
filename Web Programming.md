@@ -1,3 +1,18 @@
+PRAKTIKUM :
+
+- index.html 
+<img width="540" alt="image" src="https://user-images.githubusercontent.com/82600583/202857836-198bf59c-4408-4861-8ee2-34de351e38af.png">
+<img width="631" alt="image" src="https://user-images.githubusercontent.com/82600583/202857856-4d8539e8-83af-45cf-a2f0-d34b61d4d145.png">
+
+- form.html
+<img width="611" alt="image" src="https://user-images.githubusercontent.com/82600583/202857884-e5c2d95f-acd8-4292-9dba-d0b87912aae5.png">
+<img width="622" alt="image" src="https://user-images.githubusercontent.com/82600583/202857902-5af2fc54-cfb6-4a77-8f7b-ec2298026870.png">
+
+- welcome.html
+<img width="594" alt="image" src="https://user-images.githubusercontent.com/82600583/202857926-43272505-43e2-47ed-bfa6-20c72c52df2b.png">
+<img width="540" alt="image" src="https://user-images.githubusercontent.com/82600583/202857935-1fd64792-acb9-41dc-9e78-5f31c9fafd67.png">
+
+
 RESUME : 
 
 1. Frontend adalah sebuah bagian dari website yang membuat tampilan yang menarik kepada user. 
