@@ -1,0 +1,32 @@
+RESUME : 
+
+1. OOP 
+- Object 
+- Inheritance 
+- Encapsulation
+- Abstraction 
+- Polymorphism
+- Attribute 
+- Method
+- Class
+
+OOP 
+- Object 
+- Inheritance 
+- Attribute 
+- Method 
+- Class
+
+2. Object 
+- Declaration 
+- Instantiation 
+- Initialization 
+
+3. Method 
+Object : 
+1. Variable 
+2. Access Modifier : 
+- Public (Class, Package, Subclass, Global)Default 
+- Default ( Class, Package )
+- Private (Class) 
+- Protected (Class, Package, Subclass)  
