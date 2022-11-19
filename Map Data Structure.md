@@ -1,0 +1,18 @@
+RESUME : 
+
+Java Programming 
+JDK (Java Development Kit)
+- Developing 
+- Debugging 
+- Monitoring 
+
+IDE (Integrated Development Environtment) 
+- BlueJ
+- NetBeans 
+- Eclipse
+- IntelliJ IDEA 
+
+Proses Development Program Java 
+
+- Java development kit -> Kode Java (file java) -> java binary (file.class)
+- Java runtime environtment -> java binary (file.class) -> java archive (file.jar) 
