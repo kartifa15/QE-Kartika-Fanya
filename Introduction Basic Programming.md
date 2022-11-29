@@ -5,33 +5,8 @@ Part a – problem 5 Bilangan Prima
 ![WhatsApp Image 2022-11-18 at 18 48 31 (1)](https://user-images.githubusercontent.com/82600583/202704520-1fd3d7bb-a18a-4315-8cb0-a57bf66c13bc.jpeg)
 
 Kode
-1.	public class BilPrima {
-2.	    
-3.	    private static Boolean primeNumber(int number){
-4.	        for (int i = 2; i <= number / 2; ++i) {
-5.	          if (number % i == 0) {
-6.	            return false;
-7.	          }
-8.	        }
-9.	          
-10.	      return true;
-11.	    }
-12.	    
-13.	    public static void main(String args[]) {
-14.	        int number;
-15.	        Scanner inp = new Scanner(System.in);
-16.	        System.out.print("Input: ");
-17.	        number = inp.nextInt();
-18.	        
-19.	        System.out.print("Output: ");
-20.	        if(primeNumber(number)){
-21.	            System.out.print("True");
-22.	        }else{
-23.	            System.out.print("False");
-24.	        }
-25.	    }
-26.	}
-27.	 
+1. ![Problem 5 Bil prima 2](https://user-images.githubusercontent.com/82600583/204462606-8b6fbc4b-3e54-429f-99bb-25be9312e97c.png)
+
 - Penjelasan
 Kode dimulai dari fungsi main. Di fungsi main kita menginisialisasi sebuah variabel bernama number. Dilanjut pada baris ke 15, merupakan inisialisasi objek inp dengan class Scanner yang digunakan untuk input. Pada baris ke 17, kita menginputkan hasil inputan user ke dalam variabel number. Kemudian dicek dengan kondisi if yang memanggil fungsi primeNumber. Jika primeNumber return true maka hasilnya True dan sebaliknya menghasilkan False.
 Pada baris ke tiga terdapat sebuah fungsi bertipe data Boolean dengan nama primeNumber. Fungsi primeNumber memerlukan 1 buah parameter bertipe data int dengan nama number. Dilanjut dengan for looping dengan kondisi number / 2 dan iterasi sebelum I (++i) Dilanjut dengan kondisi if apabila number modulus i yang mana variabel hasil inisiasi for looping apabila hasilnya 0. Jika ya, return true. Jika tidak return false.
@@ -42,29 +17,8 @@ Pada baris ke tiga terdapat sebuah fungsi bertipe data Boolean dengan nama prime
 
 Part B Problem 4 Multiplication Table
 Kode
-1.	public class TabelPerkalian {
-2.	    
-3.	    private static void cetakTablePerkalian(int n){
-4.	        int a;
-5.	        int b;
-6.	        for (a=1; a<=n; ++a)
-7.	        {
-8.	            for (b=1; b<=n; ++b)
-9.	            {
-10.	                System.out.printf("%4d",a*b);
-11.	            }
-12.	            System.out.println();
-13.	        } 
-14.	    }
-15.	    
-16.	    public static void main(String[] args){
-17.	        int number;
-18.	        Scanner inp = new Scanner(System.in);
-19.	        System.out.print("Input: ");
-20.	        number = inp.nextInt();
-21.	        cetakTablePerkalian(number);
-22.	    }
-23.	}
+1.	![multiplication ](https://user-images.githubusercontent.com/82600583/204463140-ab947633-e15e-4afc-a54f-25cdb9c8ad28.png)
+
 24.	 
 - Penjelasan
 Kode dimulai dari fungsi main. Di fungsi main kita menginisialisasi sebuah variabel bernama number. Dilanjut pada baris ke 17, merupakan inisialisasi objek inp dengan class Scanner yang digunakan untuk input. Pada baris ke 20, kita menginputkan hasil inputan user ke dalam variabel number. Dilanjut dengan memanggil fungsi cetakTablePerkalian.
