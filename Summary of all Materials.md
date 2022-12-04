@@ -37,9 +37,8 @@ Technical Skill Basic Knowledge of Unix/Linux Commands Knowledge and hands-on ex
 
 # Versioning Control with GIT 
 
-Membuat repositori baru dengan nama QE-Kartika-Fanya
-Masukkan project (terserah kalian) dan buat project itu sebagai master
-
+- Membuat repositori baru dengan nama QE-Kartika-Fanya
+- Masukkan project (terserah kalian) dan buat project itu sebagai master
 
 git init
 git add index.html
@@ -48,15 +47,14 @@ git branch -M master
 git remote add origin https://github.com/kartika15/QE-Kartika-Fanya.git
 git push -u origin master
 
-Membuat branch baru yang berfungsi sebagai develop
-
+- Membuat branch baru yang berfungsi sebagai develop
 
 git checkout -b develop
 git add index.html
 git commit -m "commit from develop"
 git push -u origin develop
 
-Membuat branch ketiga sebagai penambahan fitur, pada branch ini lakukan penambahan fitur. Lakukan merge pada branch ketiga kedalam branch develop
+- Membuat branch ketiga sebagai penambahan fitur, pada branch ini lakukan penambahan fitur. Lakukan merge pada branch ketiga kedalam branch develop
 
 git branch branch_ketiga
 git checkout branch_ketiga
@@ -69,7 +67,7 @@ git push --set-upstream origin develop
 git checkout branch_ketiga
 git push -u origin branch_ketiga
 
-Membuat branch keempat sebagai penambah fitur, pada branch ini lakukan penambahan fitur. Lakukan merge pada branch keempat kedalam branch develop
+- Membuat branch keempat sebagai penambah fitur, pada branch ini lakukan penambahan fitur. Lakukan merge pada branch keempat kedalam branch develop
 
 
 git branch branch_keempat
