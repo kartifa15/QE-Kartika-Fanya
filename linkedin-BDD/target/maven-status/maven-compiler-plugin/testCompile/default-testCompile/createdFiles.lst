@@ -1,0 +1,6 @@
+starter\CucumberTestSuite.class
+starter\stepdefinitions\Users\LoginSteps.class
+starter\stepdefinitions\Users\TemukanOrangSteps.class
+starter\stepdefinitions\Users\CariPekerjaanSteps.class
+starter\stepdefinitions\Users\LogoutSteps.class
+starter\stepdefinitions\Users\PelajariKeahlianSteps.class
